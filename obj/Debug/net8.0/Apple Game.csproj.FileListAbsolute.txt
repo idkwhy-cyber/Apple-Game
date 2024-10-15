@@ -1,0 +1,14 @@
+C:\Users\vican\Documents\Code\Apple Game\bin\Debug\net8.0\Apple Game.exe
+C:\Users\vican\Documents\Code\Apple Game\bin\Debug\net8.0\Apple Game.deps.json
+C:\Users\vican\Documents\Code\Apple Game\bin\Debug\net8.0\Apple Game.runtimeconfig.json
+C:\Users\vican\Documents\Code\Apple Game\bin\Debug\net8.0\Apple Game.dll
+C:\Users\vican\Documents\Code\Apple Game\bin\Debug\net8.0\Apple Game.pdb
+C:\Users\vican\Documents\Code\Apple Game\obj\Debug\net8.0\Apple Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vican\Documents\Code\Apple Game\obj\Debug\net8.0\Apple Game.AssemblyInfoInputs.cache
+C:\Users\vican\Documents\Code\Apple Game\obj\Debug\net8.0\Apple Game.AssemblyInfo.cs
+C:\Users\vican\Documents\Code\Apple Game\obj\Debug\net8.0\Apple Game.csproj.CoreCompileInputs.cache
+C:\Users\vican\Documents\Code\Apple Game\obj\Debug\net8.0\Apple Game.dll
+C:\Users\vican\Documents\Code\Apple Game\obj\Debug\net8.0\refint\Apple Game.dll
+C:\Users\vican\Documents\Code\Apple Game\obj\Debug\net8.0\Apple Game.pdb
+C:\Users\vican\Documents\Code\Apple Game\obj\Debug\net8.0\Apple Game.genruntimeconfig.cache
+C:\Users\vican\Documents\Code\Apple Game\obj\Debug\net8.0\ref\Apple Game.dll
