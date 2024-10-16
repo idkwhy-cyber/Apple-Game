@@ -12,3 +12,4 @@ C:\Users\vican\Documents\Code\Apple Game\obj\Debug\net8.0\refint\Apple Game.dll
 C:\Users\vican\Documents\Code\Apple Game\obj\Debug\net8.0\Apple Game.pdb
 C:\Users\vican\Documents\Code\Apple Game\obj\Debug\net8.0\Apple Game.genruntimeconfig.cache
 C:\Users\vican\Documents\Code\Apple Game\obj\Debug\net8.0\ref\Apple Game.dll
+C:\Users\vican\Documents\Code\Apple Game\obj\Debug\net8.0\Apple Game.sourcelink.json
